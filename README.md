@@ -60,12 +60,16 @@ Atuação como DevOps em colaboração direta com o time de engenharia para otim
 <a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/linkedin_thumb_image.png" width="110" alt="Associate Cloud Engineer"/></a>
 <a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/linkedin_thumb_image.png" width="110" alt="Professional Cloud Architect"/></a>
 <a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/linkedin_thumb_image.png" width="110" alt="Professional Google Workspace Administrator"/></a>
-<a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" width="110" alt="Professional Cloud Database Engineer"/></a>
+<a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/linkedin_thumb_image.png" width="110" alt="Professional Cloud Database Engineer"/></a>
 <a href="https://www.credly.com/users/matheus-melo-macedo"><img src="https://images.credly.com/images/2d613ff8-8879-430b-b2d8-925fa29785e8/linkedin_thumb_image.png" width="110" alt="Professional Data Engineer"/></a>
 
-**Associate Cloud Engineer** · **Professional Cloud Architect** · **Professional Google Workspace Administrator** · **Professional Cloud Database Engineer** · **Professional Data Engineer**
-
 </div>
+
+- ☁️ **Associate Cloud Engineer**
+- 🏛️ **Professional Cloud Architect**
+- 🗂️ **Professional Google Workspace Administrator**
+- 🗄️ **Professional Cloud Database Engineer**
+- 📊 **Professional Data Engineer**
 
 ---
 
